@@ -46,14 +46,6 @@
 const newProduct = !/'code'/
 
 const addProduct = (product) =>{
-   let getProducts =()=>{products.push(product)}
-   let getElementById = () =>{products.find(prod => product.id == prod.id)}
-    if(product.includes(newProduct)){
-        getProducts(product)
-        getElementById(product)
-
-        }else{
-            console.log('not found')
-        }
+   
     }
 
